@@ -1,0 +1,19 @@
+# deep learning
+torch>=2.0.0
+torchvision>=0.15.0
+
+# data handling
+pandas>=1.5.0
+numpy>=1.24.0
+Pillow>=9.0.0
+
+# metrics and visualization
+scikit-learn>=1.2.0
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# progress tracking 
+tqdm>=4.65.0
+
+# peproducibility
+scipy>=1.10.0
